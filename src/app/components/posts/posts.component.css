@@ -1,0 +1,8 @@
+.wrap {
+  display: flex;
+  column-gap: 100px;
+}
+
+.postDetailsWrap {
+  width: 500px;
+}
