@@ -1,0 +1,19 @@
+.header {
+  height: 70px;
+  background-color: cadetblue;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 0 20%;
+}
+
+a {
+  color: aliceblue;
+  text-decoration: none;
+  font-size: 23px;
+}
+
+.active {
+  color: black;
+}
+
