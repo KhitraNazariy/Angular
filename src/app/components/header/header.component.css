@@ -1,0 +1,18 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  height: 70px;
+  background-color: cadetblue;
+  padding: 0 20%;
+}
+
+a {
+  color: aliceblue;
+  font-size: 22px;
+  text-decoration: none;
+}
+
+.active {
+  color: black;
+}
